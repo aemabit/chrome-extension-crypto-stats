@@ -18,4 +18,4 @@ You will also see any lint errors in the console.
 
 # Note:
 
-### Change in `build/index.html` to `build/popup.html`
+#### Change in `build/index.html` to `build/popup.html`
